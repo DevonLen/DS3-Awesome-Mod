@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4100">Utiliser objet sélectionné</text>
+<text id="4101">Laisser objet sélectionné</text>
+<text id="4102">Jeter objet sélectionné</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Utiliser objets sélectionnés</text>
+<text id="4111">Laisser objets sélectionnés</text>
+<text id="4112">Jeter objets sélectionnés</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">%null%</text>
+<text id="4121">Sélectionner objets à laisser</text>
+<text id="4122">Sélectionner objets à jeter</text>
+<text id="5100">Utiliser le nombre d'objets sélectionnés</text>
+<text id="5101">Laisser le nombre d'objets sélectionnés</text>
+<text id="5102">Jeter le nombre d'objets sélectionnés</text>
+<text id="5103">%null%</text>
+<text id="5104">Acheter le nombre d'objets sélectionnés</text>
+<text id="5105">Vendre le nombre d'objets sélectionnés</text>
+<text id="5106">Stocker le nombre d'objets sélectionnés</text>
+<text id="5107">Enlever le nombre d'objets sélectionnés</text>
+<text id="5108">Transposer nbre objets sélec.</text>
+<text id="6000">Sélectionner un ordre de tri</text>
+<text id="30000">Sélectionner un titre à vérifier</text>
+<text id="40331">Confirmer les paramètres et continuer.</text>
+<text id="40500">Rétablir les paramètres par défaut.</text>
+<text id="102000">Sélectionner un objet avec lequel interagir</text>
+<text id="103000">Sélectionner un emplacement</text>
+<text id="103500">Sélectionner un objet à équiper</text>
+<text id="105000">Voir description de personnage</text>
+<text id="110001">Inverser le déplacement haut/bas de la caméra.</text>
+<text id="110002">Inverser le déplacement gauche/droite de la caméra.</text>
+<text id="110003">Réinitialiser la caméra affecte également l'axe Y.</text>
+<text id="110004">Définir la vitesse de déplacement de la caméra.</text>
+<text id="110005">Verrouiller automatiquement une nouvelle cible quand la précédente meurt.</text>
+<text id="110006">Cibler automatiquement lors d'une attaque en mêlée sans cible verrouillée.</text>
+<text id="110007">Définir si la caméra doit éviter automatiquement les murs ou pas.</text>
+<text id="110008">%null%</text>
+<text id="110009">Définir les commandes de saut.</text>
+<text id="110010">Permet une visée manuelle avec les armes imposantes sur cible verrouillée.</text>
+<text id="110101">Activer/limiter/désactiver le sang.</text>
+<text id="110102">Activer/désactiver les sous-titres du jeu.</text>
+<text id="110103">Paramétrer l'affichage de l'ATH.</text>
+<text id="110104">Configurer les effets cinématiques employés lors des attaques spéciales.</text>
+<text id="110105">Régler le volume de la musique.</text>
+<text id="110106">Régler le volume des effets sonores.</text>
+<text id="110107">Régler le volume des voix.</text>
+<text id="110201">Régler la luminosité de l'écran.</text>
+<text id="110301">Activer/désactiver le chat vocal.</text>
+<text id="110302">Activer/désactiver le jeu interzone. </text>
+<text id="110303">Modifier pour rejoindre les joueurs employant le même mot de passe.</text>
+<text id="110304">Changer les options d'affichage des noms de joueurs.</text>
+<text id="110305">Commencer le jeu en ligne ou hors ligne</text>
+<text id="110306">Réduit la visibilité de votre marque d'invocation dans les mondes de Spectres ennemis.</text>
+<text id="110500">Sauvegarder la partie et revenir à l'écran titre.</text>
+<text id="211000">Sélect. Feu de destination. Braise indique la présence des Porte-Braises.</text>
+<text id="212000">Choisir un attribut à améliorer</text>
+<text id="212001">Dépenser des Âmes et monter de niveau</text>
+<text id="212250">Choisir un attribut à améliorer</text>
+<text id="212251">Monter de niveau sans dépenser d'Âmes (un seul niveau)</text>
+<text id="212500">Choisir un attribut à améliorer</text>
+<text id="212501">Monter de niveau sans dépenser d'Âmes (un seul niveau)</text>
+<text id="212750">Choisir un attribut à améliorer</text>
+<text id="212751">Commencer redistribution</text>
+<text id="221000">Sélectionner une arme à renforcer</text>
+<text id="221500">Sélectionner une arme à imprégner</text>
+<text id="221501">Sélectionner une arme à créer</text>
+<text id="222000">Sélectionner un emplacement de sort</text>
+<text id="222001">Sélectionner un sort à placer</text>
+<text id="223000">Sélectionner un objet à réparer</text>
+<text id="231000">Sélectionner un objet à acheter</text>
+<text id="232000">Sélectionner un objet à vendre</text>
+<text id="234000">Affiche la liste des chevaliers</text>
+<text id="234001">Informations du chevalier</text>
+<text id="236000">Choisir objet à transposer</text>
+<text id="251000">Sélectionner un objet à stocker</text>
+<text id="251001">Sélectionner un objet à retirer du stockage</text>
+<text id="301000">Sélectionner un émote pour cet emplacement</text>
+<text id="301001">Sélectionner un émote à utiliser</text>
+<text id="321000">Modifier le message.</text>
+<text id="321001">Changer l'Émote associé.</text>
+<text id="321002">Terminer la rédaction du message.</text>
+<text id="321003">Sélectionner le modèle.</text>
+<text id="321004">Changer l'Émote associé.</text>
+<text id="321005">Sélectionner la catégorie de mots.</text>
+<text id="321006">Sélectionner le modèle.</text>
+<text id="321007">Sélectionner un mot.</text>
+<text id="321008">Sélectionner une conjonction.</text>
+<text id="322000">Voir vos propres messages.</text>
+<text id="324000">Voir les messages lus récemment.</text>
+<text id="402011">Saisir un nom.</text>
+<text id="402012">Choisir le sexe.</text>
+<text id="402013">Choisir une tranche d'âge.</text>
+<text id="402014">Choisir la classe.</text>
+<text id="402015">Choisir une Relique funèbre.</text>
+<text id="402016">Personnaliser l'apparence.</text>
+<text id="402017">Terminer le personnage</text>
+<text id="402018">Renaître avec une nouvelle apparence</text>
+<text id="402201">Homme
+Le genre n'a aucune conséquence
+sur les capacités.</text>
+<text id="402202">Femme
+Le genre n'a aucune conséquence
+sur les capacités.</text>
+<text id="402301">Jeune
+L'âge n'a de conséquences que sur
+l'apparence, pas sur les capacités.</text>
+<text id="402302">Mûr(e)
+L'âge n'a de conséquences que sur
+l'apparence, pas sur les capacités.</text>
+<text id="402303">Âgé(e)
+L'âge n'a de conséquences que sur
+l'apparence, pas sur les capacités.</text>
+<text id="402350">Le visage plus que banal d'un roturier.
+Personne n'est parfait, mais un roturier
+sans défaut est d'une rareté absolue.</text>
+<text id="402351">Le visage d'un guerrier est comme taillé
+dans le roc. On raconte même que les
+gens du nord naissent déjà burinés.</text>
+<text id="402352">Les traits des véritables nobles sont
+parfaits, réminiscence de la
+gloire passée d'Astora.</text>
+<text id="402353">Un visage intelligent aux traits fins dont
+l'expression évoquant le manque
+d'expérience a suscité bien des moqueries.</text>
+<text id="402354">Le visage morne d'un clerc de Carim.
+Le terme "novice" est peu flatteur pour
+ces hommes parés de tissu.</text>
+<text id="402355">La largeur de ses yeux et de sa bouche
+lui confère un aspect enjoué. Cet originaire de
+Catarina aime la vie et la bouteille.</text>
+<text id="402356">Ce visage peu commun est caractérisé
+par l'étroitesse de ses traits. Certains y
+voient l'apparence d'un véritable Dragon.</text>
+<text id="402357">Ce visage est singulièrement difforme,
+ou peut-être tout simplement laid. Le
+malheur l'a poussé vers le Grand marais.</text>
+<text id="402358">Un visage sans vie, à la limite d'une
+Carcasse. Le royaume de Londor est
+celui des Carcasses et des anciens.</text>
+<text id="402359">Les traits des Dieux anciens, ceux des
+légendes. On dit que ceux qui naissent
+ainsi sont amenés dans la Vallée boréale.</text>
+<text id="402360">Le visage plus que banal d'une roturière.
+Personne n'est parfait, mais une roturière
+sans défaut est d'une rareté absolue.</text>
+<text id="402361">Le visage d'une guerrière est comme taillé
+dans le roc. On raconte même que les
+gens du nord naissent déjà burinés.</text>
+<text id="402362">Les traits des véritables nobles sont
+parfaits, réminiscence de la
+gloire passée d'Astora.</text>
+<text id="402363">Un visage intelligent aux traits fins dont
+l'expression évoquant le manque
+d'expérience a suscité bien des moqueries.</text>
+<text id="402364">Le visage morne d'un clerc de Carim.
+Le terme "novice" est peu flatteur pour
+ces femmes parées de tissu.</text>
+<text id="402365">La largeur de ses yeux et de sa bouche
+lui confère un aspect enjoué. Cette originaire
+de Catarina aime la vie et la bouteille.</text>
+<text id="402366">Ce visage peu commun est caractérisé
+par l'étroitesse de ses traits. Certains y
+voient l'apparence d'un véritable Dragon.</text>
+<text id="402367">Ce visage est singulièrement difforme,
+ou peut-être tout simplement laid. Le
+malheur l'a poussé vers le Grand marais.</text>
+<text id="402368">Un visage sans vie, à la limite d'une
+Carcasse. Le royaume de Londor est
+celui des Carcasses et des anciens.</text>
+<text id="402369">Les traits des Dieux anciens, ceux des
+légendes. On dit que ceux qui naissent
+ainsi sont amenés dans la Vallée boréale.</text>
+<text id="402401">Ce sombre chevalier à la piètre renommée
+s'est écroulé à force de vagabonder. Il doit sa
+robustesse à sa vigeur et son armure solide.</text>
+<text id="402402">Ce mercenaire aguerri a beaucoup arpenté
+le champ de bataille. Sa grande dextérité
+lui permet de manier deux Cimeterres.</text>
+<text id="402403">Ces ancêtres des guerriers du nord réputés
+pour leur force l'utilisent à bon escient en
+maniant de lourdes Haches de guerre.</text>
+<text id="402404">Corrompus par les Ténèbres, ils ne le feront jamais
+oublier ce qu'ils ont fait.</text>
+<text id="402405">Voleur ordinaire et pitoyable déserteur, ce
+sinistre personnage peut vous poignarder dans
+le dos ou vous planter une Flèche en plein cœur.</text>
+<text id="402406">Cet assassin traque ses victimes depuis les
+ombres, et les achève grâce à sa sorcellerie
+et son Épée d'estoc.</text>
+<text id="402407">Cet érudit solitaire a tout quitté afin de poursuivre
+ses propres recherches. Son intelligence élevée
+lui permet de commander les Âmes.</text>
+<text id="402408">Ce pyromancien d'une région lointaine manie
+les flammes à la perfection. Il utilise également
+une Hache légère pour le combat rapproché.</text>
+<text id="402409">Ce clerc a tellement voyagé qu'il s'est effondré
+de fatigue. Sa grande foi lui permet de lancer
+des miracles nombreux et variés.</text>
+<text id="402410">Ce personnage est nu et d'origine inconnue.
+S'agit-il d'un simple idiot, ou d'un malchanceux
+ayant tout perdu après la mort ?</text>
+<text id="402411">Un chevalier tombé en disgrâce,
+et a connu une mort prématurée.</text>
+<text id="402412">Bonne chance.</text>
+<text id="402501">Aucune relique funèbre en vue.</text>
+<text id="402502">Anneau serti d'une petite
+gemme rouge.
+Augmente le nombre maximal de PV.</text>
+<text id="402503">De l'eau bénite tiède.
+Restitue tous les PV et soulage
+tous les maux.</text>
+<text id="402504">De l'eau bénite d'une grande pureté.
+Restitue l'intégralité des PC.</text>
+<text id="402505">Chargée d'une poudre noire spéciale,
+cette bombe incendiaire fait un présent
+peu raffiné pour les défunts.</text>
+<text id="402506">Un festin de Bouses répugnant.
+À réserver à quelqu'un d'aussi exécrable
+que l'excrément.</text>
+<text id="402507">Utilisé pour obtenir des armes de feu,
+ce matériau convient mieux que de
+jolies babioles à un guerrier.</text>
+<text id="402508">L'Âme désincarnée d'une personne
+ayant dormi à vos côtés.
+Permet d'acquérir bon nombre d'Âmes.</text>
+<text id="402509">Objet de jeu en ligne à usage unique.
+Devenez un Esprit sombre et envahissez
+un autre monde.</text>
+<text id="402510">Branche d'un jeune bouleau blanc, gage
+de paix. Elle permet de se fondre dans son
+environnement, mais ne sert qu'une fois.</text>
+<text id="402511">Objet funéraire apportant la bonne fortune
+après la mort. Augmente grandement mais
+temporairement la découverte d'objets.</text>
+<text id="406000">Choisir un profil à charger.</text>
+<text id="406001">Choisir un profil à effacer.</text>
+<text id="420001">Choisir une voix.</text>
+<text id="420002">Choisir une morphologie.</text>
+<text id="420003">Ajuster la morphologie.</text>
+<text id="420004">Modifier la couleur de peau de base.</text>
+<text id="420005">Ajuster la couleur de peau.</text>
+<text id="420006">Choisir un visage préétabli.</text>
+<text id="420007">Ajuster l'apparence du visage.</text>
+<text id="420008">Sauvegarder configuration en favori.</text>
+<text id="420009">Charger un favori.</text>
+<text id="420010">Éditer le corps.</text>
+<text id="420011">Modifier les caractéristiques du visage.</text>
+<text id="420012">Modifier la forme du visage.</text>
+<text id="420013">%null%</text>
+<text id="420014">%null%</text>
+<text id="420015">Modifier les cheveux/la pilosité.</text>
+<text id="420016">Modifier l'iris.</text>
+<text id="420017">Modifier les tatouages/marques.</text>
+<text id="420018">Modifier l'équilibre du visage.</text>
+<text id="420019">Modifier le front et la glabelle.</text>
+<text id="420020">Modifier l'arcade.</text>
+<text id="420021">Modifier les yeux.</text>
+<text id="420022">Modifier l'arête.</text>
+<text id="420023">Modifier les narines.</text>
+<text id="420024">Modifier les joues.</text>
+<text id="420025">Modifier les lèvres.</text>
+<text id="420026">Modifier la bouche.</text>
+<text id="420027">Modifier le menton.</text>
+<text id="420028">Modifier la mâchoire.</text>
+<text id="420029">Modifier couleur de la pilosité.</text>
+<text id="420030">Choisir une coiffure.</text>
+<text id="420031">Modifier couleur cheveux.</text>
+<text id="420032">Modifier forme des sourcils.</text>
+<text id="420033">Modifier couleur des sourcils.</text>
+<text id="420034">Choisir le type de barbe.</text>
+<text id="420035">Modifier couleur de barbe.</text>
+<text id="420036">Choisir la forme des cils.</text>
+<text id="420037">Modifier couleur des cils.</text>
+<text id="420038">Choisir taille des yeux.</text>
+<text id="420039">Modifier couleur des yeux.</text>
+<text id="420040">Choisir taille de l'iris droit.</text>
+<text id="420041">Modifier couleur de l'iris droit.</text>
+<text id="420042">Choisir taille de l'iris gauche.</text>
+<text id="420043">Modifier couleur de l'iris gauche.</text>
+<text id="420044">Choisir tatouages/marques.</text>
+<text id="420045">Modifier couleur tatouages/marques.</text>
+<text id="420046">Changer position tatouages/marques.</text>
+<text id="420047">%null%</text>
+<text id="420048">%null%</text>
+<text id="420049">Choisir un visage similaire à l'actuel.</text>
+<text id="420050">%null%</text>
+<text id="420051">Modifier le maquillage.</text>
+<text id="420052">%null%</text>
+<text id="420053">%null%</text>
+<text id="420054">%null%</text>
+<text id="420055">Choisir la musculature.</text>
+<text id="420056">Choisir la pilosité.</text>
+<text id="420500">Remettre l'apparence par défaut.</text>
+<text id="420501">Remettre l'apparence par défaut.</text>
+<text id="421000">Voix jeune.</text>
+<text id="421001">Voix mûre.</text>
+<text id="421002">Voix âgée.</text>
+<text id="421110">Carrure moyenne.</text>
+<text id="421111">Carrure fine.</text>
+<text id="421112">Carrure très fine.</text>
+<text id="421113">Carrure musclée.</text>
+<text id="421114">Carrure large.</text>
+<text id="421115">Carrure musclée
+(haut du corps).</text>
+<text id="421116">Carrure musclée
+(bas du corps).</text>
+<text id="421117">Petite tête par rapport au reste du corps.</text>
+<text id="421118">Grosse tête par rapport au reste du corps.
+Contient sûrement un gros cerveau.</text>
+<text id="421119">%null%</text>
+<text id="421120">Physique moyen.</text>
+<text id="421121">Physique musclé.</text>
+<text id="421122">Pilosité moyenne.</text>
+<text id="421123">Pilosité abondante.</text>
+<text id="620000">Veuillez sélectionner un personnage.</text>
+</entries>
+</fmg>
