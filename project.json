@@ -4,7 +4,10 @@
   "GameType": 5,
   "PinnedParams": [],
   "PinnedRows": {
-    "NpcThinkParam": []
+    "NpcThinkParam": [],
+    "ItemLotParam": [
+      3100410
+    ]
   },
   "PinnedFields": {},
   "UseLooseParams": false,
