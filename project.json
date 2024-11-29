@@ -5,7 +5,9 @@
   "PinnedParams": [],
   "PinnedRows": {
     "NpcThinkParam": [],
-    "ItemLotParam": []
+    "ItemLotParam": [
+      3100310
+    ]
   },
   "PinnedFields": {},
   "UseLooseParams": false,
