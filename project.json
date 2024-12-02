@@ -7,6 +7,9 @@
     "NpcThinkParam": [],
     "ItemLotParam": [
       3100080
+    ],
+    "EquipParamAccessory": [
+      10040
     ]
   },
   "PinnedFields": {},
